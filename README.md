@@ -20,6 +20,8 @@ Software Dev Engineer | AI Enthusiast | Cybersecurity Advocate. Building secure,
 
 📫 Contact me: https://www.linkedin.com/in/julie-g-54b182257/
 
+📄 [Resume](https://drive.google.com/file/d/1sk-XJH6W_nF1MhAWCVd2JK_a7H_P4Vmh/view?usp=sharing)
+
 ### Education
 - University of Washington, Information School 
 - Major: Informatics - Software Development and Cybersecurity
