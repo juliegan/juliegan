@@ -1,5 +1,5 @@
 ## Hi! I'm Julie!
-Full-Stack Engineer | AI Enthusiast | Cybersecurity Advocate. Building secure, high-impact consumer products from the ground up. | Prev @AMAZON
+Software Dev Engineer | AI Enthusiast | Cybersecurity Advocate. Building secure, high-impact consumer products from the ground up. | Prev @AMAZON
 
 ### Get to know me 
 😁 Pronouns: She/her
