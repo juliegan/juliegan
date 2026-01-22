@@ -2,7 +2,7 @@
 Software Dev Engineer | AI Enthusiast | Cybersecurity Advocate. Building secure, high-impact consumer products from the ground up. | Prev @AMAZON
 
 ### Get to know me 
-😁 Pronouns: She/her
+😁 Pronouns: She/Her
 
 🖥️ Software Engineer: Experienced in building full-stack systems, cloud services, and internal tooling.
 
