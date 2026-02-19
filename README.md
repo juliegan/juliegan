@@ -35,10 +35,15 @@ I interned at Amazon the past summer as an SDE Intern, where I worked on develop
 - Designed backend services and data models using AWS Lambda, DynamoDB, and Rest APIs
 - Implemented frontend components in React and Typescript to support real-time configuration updates
 - Improved reliability and maintainability of internal tooling supporting large-scale services
+- Monitoring Configuration dashboard supported 20+ internal teams 
 
 ### Cybersecurity Research Fellow 
 - Working on independent research project on international policy and actions for quantum computing under the guidance of Dr. Jessica Beyer
 
+### Husky Satellite Lab - Software Engineer on Star Tracker 
+- Engineering high-performance C++ algorithms for autonomous star identification on a CubeSat
+- Focused on memory management and computational efficiency to ensure reliable navigation within the strict hardware constraints of a satellite’s embedded system
+  
 ### Mood Diary - Full Stack Web Application
 I designed and built a secure full-stack application supporting authentication, data persistence, and analytics with my team.
 - I implemented backend APIs using Node.js and MongoDB
@@ -46,7 +51,7 @@ I designed and built a secure full-stack application supporting authentication, 
 - [CodeRepo](https://github.com/info441-au25/final-project-group5)
 
 ### UW Husky Manager - Security and Backend Remediation
-I identified and remediated authorization and access-control vulnerabilities in a PHP web application. I implemented RBAC (role based access control) and secure session handling. I validated fixes using Docker, Loggly, OpenSSL, and security testing tools. 
+I identified and remediated authorization and access-control vulnerabilities in a PHP web application. I implemented RBAC (role based access control) and secure session handling. I validated fixes using Docker, Loggly, OpenSSL, and security testing tools. Implemented a robust Role-Based Access Control (RBAC) model and secure session handling, validated through rigorous testing with Docker and Loggly to ensure zero unauthorized data leaks.
 
 ### Skills and Tools I'm familar with
 - Languages: Java, Kotlin, C++, Python, Typescript, Javascript, Bash
