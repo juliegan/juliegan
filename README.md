@@ -51,7 +51,10 @@ I designed and built a secure full-stack application supporting authentication, 
 - [CodeRepo](https://github.com/info441-au25/final-project-group5)
 
 ### UW Husky Manager - Security and Backend Remediation
-I identified and remediated authorization and access-control vulnerabilities in a PHP web application. I implemented RBAC (role based access control) and secure session handling. I validated fixes using Docker, Loggly, OpenSSL, and security testing tools. Implemented a robust Role-Based Access Control (RBAC) model and secure session handling, validated through rigorous testing with Docker and Loggly to ensure zero unauthorized data leaks.
+- Identified and remediated authorization and access-control vulnerabilities in a PHP web application
+- Implemented RBAC (role based access control) and secure session handling
+- Validated fixes using Docker, Loggly, OpenSSL, and security testing tools
+- Implemented a robust Role-Based Access Control (RBAC) model and secure session handling, validated through rigorous testing with Docker and Loggly to ensure zero unauthorized data leaks
 
 ### Skills and Tools I'm familar with
 - Languages: Java, Kotlin, C++, Python, Typescript, Javascript, Bash
