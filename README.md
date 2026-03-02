@@ -12,6 +12,8 @@ Software Dev Engineer | AI Enthusiast | Cybersecurity Advocate. Building secure,
 
 🛡️ Security Focused: Skilled in remediating vulnerabilities, implementing RBAC, and secure session handling.
 
+🤖 AI: Passionate about AI Safety and interested in the intersection of cybersecurity and AI. 
+
 ☕ Backend Pro: Proficient in Java, Object-Oriented Design, and building scalable REST APIs.
 
 🛰️ Space Tech: I also work on C++ algorithms for star identification at the Husky Satellite Lab.
@@ -35,7 +37,13 @@ I interned at Amazon the past summer as an SDE Intern, where I worked on develop
 - Designed backend services and data models using AWS Lambda, DynamoDB, and Rest APIs
 - Implemented frontend components in React and Typescript to support real-time configuration updates
 - Improved reliability and maintainability of internal tooling supporting large-scale services
-- Monitoring Configuration dashboard supported 20+ internal teams 
+- Monitoring Configuration dashboard supported 20+ internal teams
+
+### AISC Hackathon Track Winner - benē
+- Won competitive AI hackathon with team by building an eligibility checker, dashboard, and guide functionality to address the equity gap in
+government assistance program access
+- Designed and implemented an end-to-end RAG pipeline using the Claude API to deliver accurate, context-grounded eligibility determinations from complex government policy documents
+-[CodeRepo](https://github.com/p0linal1/aisc-hackathon)
 
 ### Cybersecurity Research Fellow 
 - Working on independent research project on international policy and actions for quantum computing under the guidance of Dr. Jessica Beyer
